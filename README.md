@@ -1,32 +1,3 @@
-# 🗂️ File Organizer GUI (Python + Tkinter)
-
-This is a simple and intuitive File Organizer desktop application built using Python and Tkinter. It allows you to organize files in a selected folder based on their file types (e.g., Images, Documents, Videos, Archives, etc.).
-
----
-
-## ✅ Features
-
-- Organizes files by extensions into categorized folders.
-- Supports common file types (e.g., `.jpg`, `.pdf`, `.mp4`, etc.).
-- Files with unrecognized extensions are placed into an **"Others"** folder.
-- Easy-to-use graphical interface with folder selection and one-click organization.
-
----
-
-## 🛠 Requirements
-
-- Python 3.x
-- Tkinter (comes pre-installed with Python on most systems)
-- No third-party libraries required
-
----
-
-## 📦 How to Use
-
-### 1. **Clone or Download the Script**
-You can copy the script to a `.py` file, for example:
-
-```bash
 file_organizer.py
 Or create it with:
 
